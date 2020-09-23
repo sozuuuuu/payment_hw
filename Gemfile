@@ -54,3 +54,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rails_event_store'
+
+gem 'dry-container'
+gem 'dry-auto_inject'
+gem 'dry-rails', '~> 0.1'
